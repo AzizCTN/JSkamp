@@ -65,8 +65,8 @@ Sonuç:let değişkeninde {} içi başka bir dünya kabul edildiği için konsol
 /* 
 Notlar:
         1-Arraylar çoğul isimlerle adlandırılmalı.
-        2-Adlandırma yaparken;
-        3-Array içine array yazılabilir, sayı yazılabilir, harf yazılabilir
+        2-Array içine array yazılabilir, sayı yazılabilir, harf yazılabilir
+        3-Adlandırma yaparken;
             a-camelCasing (JS gibi dillerde kullanılır ilk harf büyük ikincisi küçük)
             b-PascalCasing (C# gibi dillerde kullanılır ilk harfler büyük)
 */
